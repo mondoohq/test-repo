@@ -1,0 +1,5 @@
+### CODEOWNERS Test for test-repo
+
+
+# All markdown to be evaluated by mondoo-editors team
+*.md	@mondoohq/mondoo-editors
